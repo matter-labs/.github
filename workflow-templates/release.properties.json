@@ -1,7 +1,7 @@
 {
     "name": "CI: Release Workflow",
     "description": "zkSync CI workflow template.",
-    "iconName": "favicon",
+    "iconName": "front-zk.png",
     "categories": [
         "dapp"
     ],
