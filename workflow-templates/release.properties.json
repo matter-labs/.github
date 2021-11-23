@@ -1,0 +1,11 @@
+{
+    "name": "CI: Release Workflow",
+    "description": "zkSync CI workflow template.",
+    "iconName": "favicon",
+    "categories": [
+        "dapp"
+    ],
+    "filePatterns": [
+        "package.json$"
+    ]
+}
