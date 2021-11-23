@@ -1,5 +1,5 @@
 {
-    "name": "CI: Release Workflow",
+    "name": "CI: releasing version",
     "description": "zkSync CI workflow template.",
     "iconName": "front-zk.png",
     "categories": [
