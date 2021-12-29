@@ -1,4 +1,4 @@
-<p align="center"><a href="https://zksync.io" target="_blank"><img src="./zksync-head.png" width="100%">
+<p align="center"><a href="https://zksync.io" target="_blank"><img alt="zkSync is Ethereum’s most user-centric ZK rollup" title="zkSync is Ethereum’s most user-centric ZK rollup" src="./zksync-head.png" width="100%">
 </a>
 </p>
 
