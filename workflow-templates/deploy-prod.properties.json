@@ -4,7 +4,7 @@
   "iconName": "matter-labs",
   "categories": [
     "deployment",
-    "firebase",
+    "firebase"
   ],
   "filePatterns": [
     "package.json$"
