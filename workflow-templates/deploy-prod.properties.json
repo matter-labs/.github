@@ -1,0 +1,12 @@
+{
+  "name": "Deploy production",
+  "description": "Firebase deployment triggered manually",
+  "iconName": "matter-labs",
+  "categories": [
+    "deployment",
+    "firebase",
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

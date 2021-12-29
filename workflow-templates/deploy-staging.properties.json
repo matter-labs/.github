@@ -1,0 +1,13 @@
+{
+  "name": "Deploy staging",
+  "description": "Firebase deployment triggered on main branch push",
+  "iconName": "matter-labs",
+  "categories": [
+    "deployment",
+    "ci",
+    "firebase"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

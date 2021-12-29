@@ -1,0 +1,14 @@
+{
+  "name": "Deploy preview",
+  "description": "Deploys generated preview on PR & manually",
+  "iconName": "matter-labs",
+  "categories": [
+    "testing",
+    "ci",
+    "deployment",
+    "firebase",
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
+}

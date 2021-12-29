@@ -1,11 +1,12 @@
 {
-    "name": "CI: releasing version",
-    "description": "zkSync CI workflow template.",
-    "iconName": "front-zk.png",
-    "categories": [
-        "dapp"
-    ],
-    "filePatterns": [
-        "package.json$"
-    ]
+  "name": "Semantic release",
+  "description": "Part of the zkSync's CI",
+  "iconName": "matter-labs",
+  "categories": [
+    "ci",
+    "semver"
+  ],
+  "filePatterns": [
+    "package.json$"
+  ]
 }
