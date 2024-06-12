@@ -11,8 +11,8 @@
 
 zkSync Era is a Layer 2 zkEVM designed to scale blockchains like the internet. With zkSync Era, EVM projects can easily take advantage of high-speed, low-cost transactions with the same security guarantees as Ethereum. Join us on our mission to accelerate mass adoption.
 
-[zkSync Era Documentation](https://era.zksync.io/docs/)
+[zkSync Era Documentation](https://docs.zksync.io/)
 
 [Bridge funds to Era](https://bridge.zksync.io)
 
-[zkSync Lite Documentation](https://docs.zksync.io/)
+[zkSync Lite Documentation](https://docs.lite.zksync.io/)
