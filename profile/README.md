@@ -15,7 +15,7 @@ Founded by seasoned software architects and backed by top-tier investors, Matter
 
 ZKsync Era is a Layer 2 zkEVM designed to scale blockchains like the internet. With ZKsync Era, EVM projects can easily take advantage of high-speed, low-cost transactions with the same security guarantees as Ethereum. Join us on our mission to accelerate mass adoption.
 
-[ZKsync Era Documentation](https://era.zksync.io/docs/)
+[ZKsync Era Documentation](https://docs.zksync.io/zksync-era)
 
 [Bridge funds to Era](https://bridge.zksync.io)
 
