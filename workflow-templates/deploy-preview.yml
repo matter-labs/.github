@@ -15,7 +15,7 @@ jobs:
     outputs:
       results: "${{ steps.deploy_preview.outputs.urls }}"
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - name: "Enable yarn cache"
         uses: c-hive/gha-yarn-cache@v2  # using cache
@@ -57,7 +57,7 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: "Checkout zksync-test-ui repository"
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           repository: matter-labs/zksync-test-ui
           ref: main
