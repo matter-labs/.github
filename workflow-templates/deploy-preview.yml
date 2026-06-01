@@ -69,7 +69,7 @@ jobs:
          yarn install --immutable || true
 
       - name: "Run cypress"
-        uses: cypress-io/github-action@v2
+        uses: cypress-io/github-action@v7.4.0
         env:
           CYPRESS_RECORD_KEY: ${{ secrets.CYPRESS_RECORD_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
